@@ -1,17 +1,10 @@
-Ini adalah library yang diperlukan untuk menjalan notebook.
-
-- jupyterlab
-- pandas
-- numpy
-- pickle
-- scikit-learn
-- wordcloud
-- matplotlib
-- scikit-learn-extra
-- pyclustering
-- yellowbrick
-
-Cara menginstalya cukup dengan ketikkan 'pip install <nama_library>' di terminal/CMD
-
-Contoh:
-'pip install pandas numpy pickle' akan menginstall library pandas, numpy, dan pickle.
+jupyterlab
+pandas
+numpy
+pickle
+scikit-learn
+wordcloud
+matplotlib
+scikit-learn-extra
+pyclustering
+yellowbrick
